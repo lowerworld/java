@@ -1,0 +1,12 @@
+/.gradle/
+/.settings/
+
+/.vscode/*
+!/.vscode/extensions.json
+!/.vscode/settings.json
+
+/bin/
+/build/
+
+/.classpath
+/.project
